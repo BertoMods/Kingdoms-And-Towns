@@ -13,7 +13,7 @@ public class KingdomsAndTowns {
 
     private static final Logger LOGGER = LogManager.getLogger();
 
-    public KingdomsAndTowns(){
+    public KingdomsAndTowns() {
 
     }
 }
